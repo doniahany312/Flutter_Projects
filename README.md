@@ -1,4 +1,4 @@
-# Git_course
+## Git_course
 For elzero course
 
-## Project Notes
+#Project Notes
